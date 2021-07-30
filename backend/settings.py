@@ -150,5 +150,6 @@ REST_FRAMEWORK = {
 
 # cors
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000"
+    "http://localhost:3000",
+    "https://6103ff3bd22328000774725e--socialx-app.netlify.app"
 ]
